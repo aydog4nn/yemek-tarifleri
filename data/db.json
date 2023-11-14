@@ -1,0 +1,139 @@
+{
+  "tarifler": [
+    {
+      "id": "1",
+      "baslik": "Halka Kebabı",
+      "aciklama": "8-10 kişilik, 15dk hazırlık, 30dk pişirme",
+      "malzemeler": [
+        "500 gram kıyma",
+        "1 çay kaşığı tuz",
+        "Yarım çay kaşığı karabiber",
+        "3 adet patlıcan",
+        "3 adet patates"
+      ],
+      "hazirlanisi": "Patlıcanların kabuklarını alacalı olarak soyalım ve yarım parmak genişliğinde dilimleyelim.Ardından su dolu kabın içerisine tuz ekleyip karıştıralım ve patlıcanları acısının çıkması için suya alarak 20 dakika bekletelim. Kabuklarını soyduğumuz soğanları da daire şeklinde dilimleyelim.",
+      "resim": "halka-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/halka-kebabi/"
+    },
+    {
+      "id": "2",
+      "baslik": "Karnıyarık Yemeği",
+      "aciklama": "8-10 kişilik, 15dk hazırlık, 30dk pişirme",
+      "malzemeler": [
+        "6 adet küçük boy patlıcan",
+        "3 adet sivri biber",
+        "2 adet orta boy soğan",
+        "2 adet domates",
+        "2 adet sivri biber"
+      ],
+      "hazirlanisi": "Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.",
+      "resim": "karniyarik.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/karniyarik-yemegi-videosu/"
+    },
+    {
+      "id": "3",
+      "baslik": "Tavuklu Sultan Kebabı",
+      "aciklama": "8-10 kişilik, 15dk hazırlık, 30dk pişirme",
+      "malzemeler": [
+        "2 adet yufka",
+        "400g tavuk göğsü",
+        "400g tavuk pirzola",
+        "1 adet kuru soğan",
+        "1 yemek kaşığı domates salçası"
+      ],
+      "hazirlanisi": "Patlıcanı alacalı soyarak küçük küçük doğrayın ve sıvı yağ ile kızartın.Süzgece alarak yağının süzmesi bekleyin bu arada tavukları soteleyin.Tavukları kuş başı doğrayın, tencereye alarak arada karıştırarak pişirin.Rengi dönüp suyunu saldığında yemeklik doğranmış soğanı ekleyin.",
+      "resim": "tavuklu-sultan-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/tavuklu-sultan-kebabi-tarifi/"
+    },
+    {
+      "id": "4",
+      "baslik": "Halka Kebabı",
+      "aciklama": "8-10 kişilik, 15dk hazırlık, 30dk pişirme",
+      "malzemeler": [
+        "500 gram kıyma",
+        "1 çay kaşığı tuz",
+        "Yarım çay kaşığı karabiber",
+        "3 adet patlıcan",
+        "3 adet patates"
+      ],
+      "hazirlanisi": "Patlıcanların kabuklarını alacalı olarak soyalım ve yarım parmak genişliğinde dilimleyelim.Ardından su dolu kabın içerisine tuz ekleyip karıştıralım ve patlıcanları acısının çıkması için suya alarak 20 dakika bekletelim. Kabuklarını soyduğumuz soğanları da daire şeklinde dilimleyelim.",
+      "resim": "halka-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/halka-kebabi/"
+    },
+    {
+      "id": "5",
+      "baslik": "Karnıyarık Yemeği",
+      "aciklama": "8-10 kişilik, 15dk hazırlık, 30dk pişirme",
+      "malzemeler": [
+        "6 adet küçük boy patlıcan",
+        "3 adet sivri biber",
+        "2 adet orta boy soğan",
+        "2 adet domates",
+        "2 adet sivri biber"
+      ],
+      "hazirlanisi": "Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.",
+      "resim": "karniyarik.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/karniyarik-yemegi-videosu/"
+    },
+    {
+      "id": "6",
+      "baslik": "Tavuklu Sultan Kebabı",
+      "aciklama": "8-10 kişilik, 15dk hazırlık, 30dk pişirme",
+      "malzemeler": [
+        "2 adet yufka",
+        "400g tavuk göğsü",
+        "400g tavuk pirzola",
+        "1 adet kuru soğan",
+        "1 yemek kaşığı domates salçası"
+      ],
+      "hazirlanisi": "Patlıcanı alacalı soyarak küçük küçük doğrayın ve sıvı yağ ile kızartın.Süzgece alarak yağının süzmesi bekleyin bu arada tavukları soteleyin.Tavukları kuş başı doğrayın, tencereye alarak arada karıştırarak pişirin.Rengi dönüp suyunu saldığında yemeklik doğranmış soğanı ekleyin.",
+      "resim": "tavuklu-sultan-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/tavuklu-sultan-kebabi-tarifi/"
+    },
+    {
+      "baslik": "Beyti Kebabı",
+      "aciklama": "30 dakika hazırlama süresi,4-6 kişilik",
+      "malzemeler": [
+        "2 adet yufka",
+        "4 adet rendelenmiş domates",
+        "400 g kıyma",
+        "1 adet yumurta",
+        "1 diş sarımsak"
+      ],
+      "hazirlanisi": "Köftesi için; kıyma, yumurta, rendelenmiş soğan ve sarımsak, yarım çay bardağı galeta unu, karabiber, pul biber ve tuzu derince bir kaba alarak yoğuralım.\nKöfteleri yassı ve uzun şekiller oluşturarak pişirme kağıdı serdiğimiz fırın tepsisine yerleştirelim.185 derece ısınmış fırında 10-12 dakika fırınlayalım.\nKöftelerimizi fırından aldıktan sonra 1 adet yufkamızı tezgaha alarak ikiye bölelim.\nYarım yufkanın üzerine eritilmiş tereyağından güzelce sürelim.\nYufkanın geniş tarafına köftelerimizi tek sıra halinde dizelim ve yufkanın kenarlarını içe katlayarak rulo şeklinde saralım. Bu aşamada çok gevşek sarmamalısınız.\nTüm köfteleri aynı şekilde sardıktan sonra rulolarımızı verev şeklinde dilimleyerek yağlı kağıt serilmiş fırın tepsisine sıralayalım.\nÜzerlerine eritilmiş tereyağından sürerek tekrar fırına yerleştirelim.\n185 dereceye ısıtılmış fırında üzerleri hafif pembeleşinceye kadar pişirelim.\nSosu için; küçük bir tavada tereyağını eritelim",
+      "resim": "beyti-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/beyti-kebabi-3310059/",
+      "id": "uCkFq8P"
+    },
+    {
+      "baslik": "Adana Kebap",
+      "aciklama": "Akif Salman tarafından özenle hazırlandı.",
+      "malzemeler": [
+        "Et",
+        "Soğan",
+        "Yemek Yapma İsteği",
+        "Lavaş"
+      ],
+      "hazirlanisi": "İlk olarak soğanı ve kapya biberi rondodan geçirin ya da ince ince doğrayın.\nSuyunu iyice sıkın.Kıymanın içerisine ekleyin.\nTuz ve karabiberi de ekleyip güzelce yoğuralım ve dinlenmesi için dolaba kaldıralım.\nBu sıra da lavaş için un hariç bütün malzemeleri derin bir kap içerisine alalım.\nUnu kontrollü ekleyip kıvamlı bir hamur yoğuralım yarım saat kadar mayalansın.\nMayalanan hamuru 10-12 eşit parçaya bölelim.\nHer bir parçayı yuvarlak açıp tava da arkalı önlü pişirelim.\nPişen lavaşları bir bez ya da örtüyle güzelce saralım.",
+      "resim": "adana-kebap.jpg",
+      "url": "https://www.nefisyemektarifleri.com/adana-kebap-9069692/",
+      "id": "rX4bZDD"
+    },
+    {
+      "baslik": "Kakaolu Puding",
+      "aciklama": "30 dakika hazırlama süresi,4-6 kişilik",
+      "malzemeler": [
+        "1 litre süt",
+        "1 su bardağı toz şeker",
+        "3 yemek kaşığı kakao",
+        "2 dolu yemek kaşığı un",
+        "2 dolu yemek kaşığı nişasta",
+        "1 paket vanilya"
+      ],
+      "hazirlanisi": "Uygun bir tencereye, vanilya ve tereyağı hariç puding için gerekli olan diğer malzemeleri alalım.\nOrta ateşte, bir çırpma teli yardımıyla devamlı karıştırarak pişirmeye başlayalım.\nKıvam alıp, göz göz olmaya başlayınca birkaç dakika daha karıştırarak pişirelim.\nAteşten aldığımız pudingin içine vanilya ve tereyağı ilavesini yaparak, mikserle bir kaç dakika çırpalım. Burada tel çırpıcı da kullanabilirsiniz ancak mikser ile kıvamı daha güzel olacaktır.\nHazır olan pudingi kepçe yardımı ile kaselere aktaralım. Ben kullandığım kaseler ile 4 kase elde ettim.\nOda sıcaklığına gelen pudingimizi buzdolabına kaldırarak bir kaç saat dinlenmeye bırakalım.\nGüzelce dinlenen ve soğuyan pudinglerimizi dilediğimiz gibi süsleyerek servis edelim. Afiyet olsun.",
+      "resim": "kakaolu-puding.jpg",
+      "url": "https://www.nefisyemektarifleri.com/ev-yapimi-kakaolu-puding-tarifi/",
+      "id": "gvIuiUw"
+    }
+  ]
+}
